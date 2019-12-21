@@ -1,0 +1,7 @@
+JOB g1 lemontree_p1.sub
+JOB g2 lemontree_p2.sub
+JOB g3 lemontree_p3.sub
+JOB g4 lemontree_p4.sub
+JOB g5 lemontree_p5.sub
+JOB combine lemontree_combine.sub
+PARENT g1 g2 g3 g4 g5 CHILD combine
