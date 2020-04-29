@@ -6,5 +6,5 @@ before start,  replace the expr_matrix.txt file with your data and tar to lemont
 
 1. upload all files to chtc
 2. use lemontree.tar.gz
-3. run the dagman file  by  condor_submmit_dag lemontree.dag
+3. run the dagman file  by  condor_submit_dag lemontree.dag
 4. select returned  go_output.txt and tight_clusterings.txt  file
